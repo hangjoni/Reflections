@@ -1,0 +1,8 @@
+1. Check differences between two versions of a file
+Mac: diff
+W: fc
+=> Crucial to save major versions of the project at each stage of development
+=> Comparing differences in file versions is useful for debugging (mainly that) and maybe quantifying how much changes/work was done on current version
+2. Reflections is crucial to learning
+3. Neat: operate text editor from command line
+=> Need to make changes to terminal path by modifying .bin_profile at home directory and append path to Sublime's subl command file 's
